@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Yoonme3244@",
+    "database": "myff-db",
+    "host": "127.0.0.1",
+    "dialect": "mysql"
+  }
+}
